@@ -61,6 +61,16 @@ To build a real AI Research Workspace — not just another PDF chatbot.
 
 ## Setup
 
+Environment Variables
+
+Create a file named:
+
+.env
+
+Use the structure as per .env.example:
+
+GOOGLE_API_KEY = your_api_key_here
+
 ```bash id="j7r8k2"
 git clone YOUR_GITHUB_REPOSITORY_LINK
 cd YOUR_PROJECT_FOLDER_NAME
@@ -70,13 +80,9 @@ streamlit run app.py
 
 ## Contact
 
-LinkedIn: [Tridib Dey](https://www.linkedin.com/)
+Contact
 
-GitHub: Tridib-dev
-
-Email: [tridib.deylabs@gmail.com](mailto:tridib.deylabs@gmail.com)
-
-X: @tridib_deylabs
+LinkedIn: Tridib Dey | GitHub: [Tridib-dev](https://github.com/Tridib-dev) | X: [@tridib_deylabs](https://x.com/tridib_deylabs) | Email: tridib.deylabs@gmail.com
 
 ## Status
 
