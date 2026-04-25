@@ -82,7 +82,7 @@ streamlit run app.py
 
 Contact
 
-LinkedIn: Tridib Dey | GitHub: [Tridib-dev](https://github.com/Tridib-dev) | X: [@tridib_deylabs](https://x.com/tridib_deylabs) | Email: tridib.deylabs@gmail.com
+LinkedIn: [Tridib Dey](https://www.linkedin.com/in/tridib-dey-3276b5405/) | GitHub: [Tridib-dev](https://github.com/Tridib-dev) | X: [@tridib_deylabs](https://x.com/tridib_deylabs) | Email: tridib.deylabs@gmail.com
 
 ## Status
 
