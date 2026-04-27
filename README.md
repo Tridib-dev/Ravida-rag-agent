@@ -13,22 +13,20 @@ This project allows users to upload documents, ask complex questions, retrieve r
 * Research-focused workflows
 
 
-
 ### Screenshots
 
-![Project Demo](/home/TRIDIB/Documents/GENAI_Learn/apps/rag_agent_1/ravida/assets/Screenshot_20260427_222748.png)
+![Project Demo](assets/demo.png)
 
 ## Current Stack
 
-* Streamlit
-* LangChain
-* ChromaDB
-* Python
+- Streamlit
+- LangChain
+- ChromaDB
+- Python
 
-### Tech stack and architechture
+### Tech Stack and Architecture
 
-![Architechture](/home/TRIDIB/Documents/GENAI_Learn/apps/rag_agent_1/ravida/assets/ChatGPT Image Apr 27, 2026, 02_31_43 AM.png)
-
+![Architecture](assets/architecture.png)
 ## Current Limitations
 
 This is still V1 and not production-grade yet.
