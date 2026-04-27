@@ -16,7 +16,7 @@ This project allows users to upload documents, ask complex questions, retrieve r
 
 ### Screenshots
 
-(Add demo screenshots + architecture images here)
+![Project Demo](/home/TRIDIB/Documents/GENAI_Learn/apps/rag_agent_1/ravida/assets/Screenshot_20260427_222748.png)
 
 ## Current Stack
 
@@ -24,6 +24,10 @@ This project allows users to upload documents, ask complex questions, retrieve r
 * LangChain
 * ChromaDB
 * Python
+
+### Tech stack and architechture
+
+![Architechture](/home/TRIDIB/Documents/GENAI_Learn/apps/rag_agent_1/ravida/assets/ChatGPT Image Apr 27, 2026, 02_31_43 AM.png)
 
 ## Current Limitations
 
